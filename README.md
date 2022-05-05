@@ -54,7 +54,7 @@ asktgt模块可以使用用户密码、哈希请求TGT（默认加密方式为rc
 
 ### asktgs
 <details>
-<summary>👉asktgt详细参数</summary>
+<summary>👉asktgs详细参数</summary>
 
 ```
                                                                                                                                                                      
@@ -97,7 +97,7 @@ asktgs模块允许使用Base64编码的TGT或者是.kirbi文件请求TGS，也�
 
 ### describe
 <details>
-<summary>👉asktgt详细参数</summary>
+<summary>👉describe详细参数</summary>
 
 ```
 ┌──(root💀kali)-[~/Desktop]
